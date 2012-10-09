@@ -1,0 +1,13 @@
+/* change or add the icons down this page..
+
+The idea is this style sheet contains 
+the icons.. for extjs
+and the images are cached forever//..
+this style sheet will NOT be cached.. 
+so new images in diferrent paths please..
+*/
+
+.icoMpServers{background-image: url(http://cdn.fgx.ch/icons/famfam/mpservers.1.png) !important;}
+.icoFlights{background-image: url(http://cdn.fgx.ch/icons/famfam/flights.1.png) !important;}
+.icoRefresh{background-image: url(http://cdn.fgx.ch/icons/famfam/refresh.1.png) !important;}
+
