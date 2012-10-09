@@ -1,0 +1,2 @@
+fgx-static content
+
